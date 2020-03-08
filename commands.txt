@@ -1,0 +1,4 @@
+Learning all the git commands
+
+git init
+git add .

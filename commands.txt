@@ -3,3 +3,10 @@ Learning all the git commands
 git init
 git add .
 git status
+
+
+
+
+
+
+Thank you
